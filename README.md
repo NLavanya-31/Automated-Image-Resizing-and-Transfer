@@ -3,6 +3,9 @@
 Project Overview:
 The objective of this project is to develop an automated system for image processing and management within the AWS environment. The aim is to simplify the handling of images by resizing them automatically, transferring them to a designated storage location, and notifying stakeholders about the process. Key AWS services including Lambda, S3, and SNS are utilized to orchestrate this workflow.
 
+![Architecture_](https://github.com/NLavanya-31/Automated-Image-Resizing-and-Transfer/assets/155809688/292afe3f-9ae6-4768-b0d8-5c568832d9d8)
+
+
 Key Features:
 
 Image Processing Automation: Implement automated resizing and optimization of images upon upload.
